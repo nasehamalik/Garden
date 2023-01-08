@@ -1,1 +1,2 @@
+python -m pip freeze [options]
 -r, --requirement <garden.py>
